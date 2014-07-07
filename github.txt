@@ -1,4 +1,10 @@
+Juan Jerez 
+
 GitHub/SVN(Subversion)/LES/Mercurial
 
+<<<<<<< HEAD
+GIT: Control de Versiones 
+=======
 GIT: Control de Versiones
+>>>>>>> parent of c4b350a... Agregado Archivo de explicación de GitHub
 GITHUB
